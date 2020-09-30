@@ -1,6 +1,10 @@
 # YouTubeVideoDownloader
 YouTubeVideoDownloader provides a UI to directly download videos from a video url or a playlist url, download all the way upto 8K
 
+Typically, you paste the URL for the YouTube video you want into the program, and it downloads the highest quality version it can find.
+On the copyright front, as long as you're downloading a video for your own personal offline use, you're probably okay. 
+
+
 It is an extension of the popular commandline video downloader "youtube-dl" https://github.com/rg3/youtube-dl
 
 Download videos from YouTube, Facebook, Instagram, Dailymotion and many more sites, for a comeplete list of supported sites, see: https://github.com/rg3/youtube-dl/blob/master/docs/supportedsites.md
@@ -19,12 +23,27 @@ Download videos from YouTube, Facebook, Instagram, Dailymotion and many more sit
  - `4K`
  - `8K`
  
+ # Services
+- support upto 8k quality of videos.
+- Free to use
+- Fast downloads and conversions with no rate limiting.
+- work with any video URL: Youtube.
+- Download entire playlist in a batch.
+- Works on any device, whether it be Windows, macOS, iOS, Linux.
+- Not Collect your personal data.
+- Not Contain malvare or any type of virus.
+ 
 # How to use:
 - `Download zip` https://github.com/lohriialo/YouTubeVideoDownloader/blob/master/dist/YouTubeVideoDownloader.zip
 - `Unzip "YouTubeVideoDownloader.zip"`
 - `Run 'YouTube Video Downloader.exe'`
 
 ![alt text](https://github.com/lohriialo/YouTubeVideoDownloader/blob/master/Capture.PNG)
+
+# How to Use Our YouTube Downloader
+- Find a video on YouTube which you wish to download, then copy its link.
+- Paste the video's link in the download box at the top of this page
+- Now click on the "Download" button
 
 # Modify and extend it further, requiremments:
 - `Python 3.x`
